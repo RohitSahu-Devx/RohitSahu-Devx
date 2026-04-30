@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=RohitSahu-Devx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=RohitSahu-Devx&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitSahu-Devx&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RohitSahu-Devx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
